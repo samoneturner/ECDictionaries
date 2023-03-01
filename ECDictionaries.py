@@ -26,7 +26,7 @@ for record in script:
         elif word == "spirit":
             dictonary[word] += 1
         elif word == "life":
-            dictonary[word] += 2
+            dictonary[word] += 1
         elif word == "man":
             dictonary[word] += 1
         else:
